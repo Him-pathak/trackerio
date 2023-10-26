@@ -3,7 +3,6 @@ import React from 'react'
 import Heading from '../Components/Right/Heading'
 import HabitBarChart from '../Components/Right/HabitBarChart'
 import HabitDonutChart from '../Components/Right/HabitDonutChart'
-import Menu from '../Components/Left/styles/menu'
 import Flexbetween from '../Components/Left/styles/Flexbetween'
 import AllNotes from '../Components/Right/AllNotes'
 import NotesIcon from '@mui/icons-material/Notes';

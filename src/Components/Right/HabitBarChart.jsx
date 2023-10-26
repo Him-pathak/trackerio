@@ -1,7 +1,5 @@
 import * as React from 'react';
 import { BarChart } from '@mui/x-charts';
-import FlexCenter from '../../utils/FlexCenter';
-import Flexbetween from '../Left/styles/Flexbetween';
 import LeaderboardIcon from '@mui/icons-material/Leaderboard';
 import { Typography } from '@mui/material';
 

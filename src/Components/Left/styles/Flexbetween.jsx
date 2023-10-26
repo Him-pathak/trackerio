@@ -12,7 +12,8 @@ const Flexbetween = styled(Box)({
   borderRadius: "3px",
   '&:hover': {
     backgroundColor: '#105b72c2',
-    color:"#fff"
+    color:"#fff",
+    cursor: "pointer"
   }
 });
 

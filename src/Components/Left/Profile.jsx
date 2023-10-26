@@ -5,7 +5,7 @@ import FlexCenter from '../../utils/FlexCenter'
 
 function Profile() {
   return (
-    <FlexCenter style={{border: "1px solid #E0E9EC",
+    <FlexCenter style={{border: "1px solid #7b7c7c",
     borderRadius: "3px",
     margin:"12px 0", gap:'10px',
     justifyContent:"flex-start"}}>

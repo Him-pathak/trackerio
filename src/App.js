@@ -1,24 +1,24 @@
-import logo from './logo.svg';
+import { Box, Grid } from '@mui/material';
 import './App.css';
+import Left from './Sections/Left';
+import Middle from './Sections/Middle';
+import Right from './Sections/Right';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Box sx={{ flexGrow: 1 , height: "100vh"}}>
+    <Grid container>
+      <Grid item xs={3}>
+        <Left/>
+      </Grid>
+      <Grid item xs={6}>
+        <Middle/>
+      </Grid>
+      <Grid item xs={3}>
+        <Right/>
+      </Grid>
+    </Grid>
+  </Box>
   );
 }
 

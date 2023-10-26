@@ -6,7 +6,7 @@ import Right from './Sections/Right';
 
 function App() {
   return (
-    <Box sx={{ flexGrow: 1 , height: "100vh"}}>
+    <Box sx={{ flexGrow: 1 , maxHeight: "100vh", overflow:"hidden"}}>
     <Grid container spacing={0}>
       <Grid item xs={2}>
         <Left/>

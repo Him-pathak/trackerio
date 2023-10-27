@@ -1,3 +1,5 @@
+![Logo](https://github.com/Him-pathak/trackerio/assets/111335579/afb5db16-6fb9-4c7b-8a14-138e770f8e89)
+
 # trackerio
 
 **trackerio** is a versatile web application designed to help you track and enhance your daily habits. Whether you're keen on forming new habits, improving existing ones, or simply staying organized, trackerio offers a comprehensive habit-tracking experience.

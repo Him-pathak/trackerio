@@ -5,9 +5,9 @@ import InspirationPeople from '../Components/Middle/InspirationPeople'
 
 function Middle() {
     return (
-        <div style={{ borderInline: "1px solid #fff", height: "100vh", padding: "15px" }}>
-            {/* <HabitSection/>             */}
-            <InspirationPeople/>
+        <div style={{ borderInline: "1px solid #7b7c7c", height: "100vh", padding: "15px" }}>
+            <HabitSection/>            
+            {/* <InspirationPeople/> */}
         </div>
     )
 }

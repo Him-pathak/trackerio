@@ -5,7 +5,7 @@ import FlexCenter from '../../utils/FlexCenter'
 function Heading() {
   return (
     <FlexCenter style={{marginBottom:"10px"}}>
-      <Typography>Habit 1</Typography>
+      <Typography>Drink 4 litres of water</Typography>
     </FlexCenter>
   )
 }

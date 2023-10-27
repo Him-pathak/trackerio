@@ -16,16 +16,6 @@ function Left() {
             <AddHabits />
             <Menu><Typography>Inspirations</Typography></Menu>
             <div style={{ maxHeight: "40vh", overflow: "scroll", marginBottom:"15px" }}>
-                {/* map all the persons */}
-                <Person />
-                <Person />
-                <Person />
-                <Person />
-                <Person />
-                <Person />
-                <Person />
-                <Person />
-                <Person />
                 <Person />
             </div>
 

@@ -11,8 +11,8 @@ import NoteAddIcon from '@mui/icons-material/NoteAdd';
 
 const label = { inputProps: { 'aria-label': 'controlled' } };
 
-function Habits() {
-    const [isHovered, setIsHovered] = useState(false);
+function Habits({description,count}) {
+    const [isHovered, setIsHovered] = React.useState(false);
     const [checked, setChecked] = React.useState(false);
     const [anchorEl, setAnchorEl] = React.useState(null);
 
@@ -67,7 +67,7 @@ function Habits() {
                     onChange={handleChange}
                     color="success"
                 />
-                <Typography>Drink 4 liters of water daily</Typography>
+                <Typography>{description}</Typography>
             </FlexCenter>
 
             <IconButton sx={{ color: "#fff" }} onClick={handleClick}>

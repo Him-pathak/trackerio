@@ -18,25 +18,24 @@
 
 **Habit Tracking**: Effortlessly create, manage, and track your daily habits. Edit or delete habits as needed, keeping your personal goals within reach.
 
-![Screenshot 2023-10-27 202422](https://github.com/Him-pathak/trackerio/assets/111335579/52aac3bb-dac1-46f8-a3e4-9db1f59c2fd8)
-
+![Screenshot 2023-10-27 202422](https://github.com/Him-pathak/trackerio/assets/111335579/e5995dbc-b176-4778-a0f8-55969c835d88)
 **Notes**: Attach notes to specific habits to journal your progress, capture insights, or reflect on your journey.
 
-![Screenshot 2023-10-27 202433](https://github.com/Him-pathak/trackerio/assets/111335579/59c7e848-8f76-481a-b391-b8f101fb35d6)
+![Screenshot 2023-10-27 202433](https://github.com/Him-pathak/trackerio/assets/111335579/6c0b817d-a533-4b7a-9989-b39efe8dff9d)
 
-![Screenshot 2023-10-27 202459](https://github.com/Him-pathak/trackerio/assets/111335579/59799221-3404-4215-ba55-db244d809d88)
+![Screenshot 2023-10-27 202459](https://github.com/Him-pathak/trackerio/assets/111335579/586c8611-c287-4e54-a66a-3550d44b8d25)
 
 **Stats and Graphs**: Gain valuable insights into your daily and weekly habit performance with intuitive graphs.
 
-![Screenshot 2023-10-27 205847](https://github.com/Him-pathak/trackerio/assets/111335579/9b48e7cb-a122-47d3-a4f6-143d1eef0e59)
+![Screenshot 2023-10-27 205847](https://github.com/Him-pathak/trackerio/assets/111335579/eea9a21f-c8e7-4e83-a41a-3c4bff275f85)
 
-![Screenshot 2023-10-27 205907](https://github.com/Him-pathak/trackerio/assets/111335579/c610f090-efcc-47ad-b1c2-6c7bf7cb5e49)
+![Screenshot 2023-10-27 205907](https://github.com/Him-pathak/trackerio/assets/111335579/89724225-6fce-4585-a8b3-d4f07f275e54)
 
 **Inspiration from Successful People**: Explore the habits of notable figures like Elon Musk and Barack Obama to draw inspiration from their routines and accomplishments.
 
-![Screenshot 2023-10-27 202835](https://github.com/Him-pathak/trackerio/assets/111335579/cf66d9d5-972f-4588-8ea7-035a493e6fa8)
+![Screenshot 2023-10-27 202835](https://github.com/Him-pathak/trackerio/assets/111335579/1c74a6b1-b584-4601-9e5b-f31d830cd378)
 
-![Screenshot 2023-10-27 203048](https://github.com/Him-pathak/trackerio/assets/111335579/61bfa4dc-6346-493e-9a55-59c13a6baa29)
+![Screenshot 2023-10-27 203048](https://github.com/Him-pathak/trackerio/assets/111335579/5cf5bf0a-5bd4-47a9-88fb-f6b98132da11)
 
 
 ## Tech Stack

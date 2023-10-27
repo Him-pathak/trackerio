@@ -1,0 +1,169 @@
+[
+    {
+        "name": "Barack Obama",
+        "profession": "44th President of the United States",
+        "description": "The 44th president of the United States contributed to plenty of changes in his country. But, with change came great responsibility as well as a jam-packed schedule. So, to keep up with the extensive amount of work, Obama frequently had to work late into the night, becoming the country's most famous “night guy.”",
+        "schedule": [
+            "During his presidency, Obama usually woke up at 7 a.m.",
+            "Immediately after waking up, he spent 45 minutes doing cardio and weight lifting exercises.",
+            "Then, before heading to the Oval Office, he'd make sure to have breakfast with his family.",
+            "While at the Oval Office, he would focus on his work from 9 a.m. to 6:30 p.m.",
+            "After getting back home, the former president never missed the opportunity to have dinner with his family and put his kids to sleep at 8:30 p.m. sharp.",
+            "Then, he would make the most out of his evenings by going over the next day's briefing materials, before going to bed at 12:30 a.m. or later."
+        ],
+        "key elements": [
+            "Obama rarely left his home without spending at least 30 minutes of his time exercising.",
+            "He also never skipped breakfast, regardless of how busy his day was."
+        ]
+    },
+    {
+        "name": "Queen Elizabeth",
+        "profession": "Queen of England",
+        "description": "Although she's been on the British throne for almost 70 years, Queen Elizabeth II has never given up on her regular daily routine. Since her schedule has remained as tight as it was the day she inherited the British crown, the Queen of England had to follow a detailed plan to keep up with a multitude of duties that come with the royal rank.",
+        "schedule": [
+            "The Queen of England wakes up every morning at 7:30 a.m.",
+            "Although she doesn't leave her room before 8:30 a.m., the Queen makes sure to start the day with early morning news and a cup of tea.",
+            "After taking a bath, Queen Elizabeth enjoys a light breakfast at 8:30 a.m.",
+            "Traditionally, as soon as she hears the sound of bagpipes coming from the terrace (at 9 a.m. sharp), the Queen starts her work for the day.",
+            "Busy from the early morning, Queen Elizabeth begins her workday by reading newspapers and dealing with the famous ‘'red box'' (containing important paperwork).",
+            "After two busy hours, the Queen greets foreign dignitaries at 11 a.m.",
+            "When the meetings are over, she takes a lunch break at 12:30 p.m.",
+            "The Queen's afternoons are usually busy with wrapping up the day's work and meeting with the Prime Minister.",
+            "She usually moves away from her desk at 4:30 p.m., right in time for tea.",
+            "Dinner time is always at 7:30 p.m.",
+            "Before going to bed at 11 p.m., Queen Elizabeth never skips watching popular TV shows and writing at least a page in her diary."
+        ],
+        "key elements": [
+            "Queen Elizabeth rarely introduces any changes to her schedule.",
+            "By following a strict routine, she manages to remain on top of all of her royal duties while still having enough room to enjoy her leisure time as well."
+        ]
+    },
+    {
+        "name": "Jack Dorsey",
+        "profession": "CEO of Block Inc.",
+        "description": "Before he stepped down as Twitter CEO, Jack Dorsey managed to balance two different leading roles for 6 years. To keep up with all the responsibilities that came with his two jobs, Dorsey had to figure out a rigid routine. Apart from changing his eating habits to only 7 meals per week and organizing his workday around a theme, the current Block Inc. CEO has introduced many more unusual habits to his schedule to stay on top of his tasks.",
+        "schedule": [
+            "He usually gets up as early as 5 a.m.",
+            "Almost immediately after waking up, he tends to meditate and go for a run.",
+            "He finishes his morning routine either by taking an ice-cold bath or by sitting in his barrel sauna.",
+            "At 7:30 a.m., Jack Dorsey usually takes a long walk to work. Instead of commuting to the office, he chooses to spend an hour and a half walking so that he can either listen to a podcast or simply think.",
+            "From 9 a.m., Dorsey gets to focus solely on his work.",
+            "At 6:30 p.m. he usually eats his dinner, which is his only meal for the day.",
+            "While he was still in charge of two distinct companies, Jack used to work until 8:30 p.m.",
+            "Right before going to bed at 10 p.m., Dorsey never forgets to wind down and check in with his family."
+        ],
+        "key elements": [
+            "Jack Dorsey is known for his unique lifestyle choices, like intermittent fasting and daily ice baths.",
+            "He organizes his work around a 'theme' each day, allowing him to focus on specific aspects of his businesses."
+        ]
+    },
+    {
+        "name": "Elon Musk",
+        "profession": "CEO of SpaceX and Tesla, Inc.",
+        "description": "As a billionaire entrepreneur, Elon Musk is known for his ambitious projects and innovative ideas. To manage his numerous ventures and make progress on projects like SpaceX and Tesla, Musk follows a demanding schedule. Let's take a look at how a typical day in the life of Elon Musk unfolds.",
+        "schedule": [
+            "Elon Musk starts his day early, often waking up at 7 a.m.",
+            "He typically skips breakfast and begins his day with a cup of coffee or tea.",
+            "Musk heads to work, usually at SpaceX or Tesla, by 8 a.m.",
+            "His workdays are long, lasting until about 1 a.m. He devotes most of his time to engineering and design work.",
+            "Lunch is often a quick and simple affair, with Musk preferring to eat at his desk.",
+            "Throughout the day, Musk attends numerous meetings, focusing on strategy and project development.",
+            "In the evenings, he occasionally takes a break to play video games or interact with employees on the factory floor.",
+            "After a long day at work, Musk may return home or spend the night at the office, sleeping for only about 6 hours before starting the next day."
+        ],
+        "key elements": [
+            "Elon Musk's schedule is known for its demanding nature, with long workdays and limited sleep.",
+            "He's known to be deeply involved in every aspect of his companies, from engineering to strategic decision-making."
+        ]
+    },
+    {
+        "name": "Serena Williams",
+        "profession": "Professional Tennis Player",
+        "description": "Serena Williams is one of the greatest tennis players of all time, with an impressive career that includes numerous Grand Slam titles. Her daily routine plays a crucial role in her success on and off the tennis court. Here's what a typical day looks like for Serena Williams.",
+        "schedule": [
+            "Serena Williams typically wakes up at 7 a.m. to start her day.",
+            "Her mornings often begin with a hearty breakfast to fuel her body for training and matches.",
+            "By 9 a.m., she's on the tennis court, practicing and working on her game.",
+            "Williams dedicates several hours to her training and fitness regimen, which includes strength and conditioning exercises.",
+            "Lunch is a well-balanced meal, essential for her physical and mental performance.",
+            "In the afternoons, Serena might engage in additional training or recovery sessions, such as massages and physiotherapy.",
+            "Evenings are reserved for rest and relaxation, spending quality time with her family and friends.",
+            "She tries to ensure she gets a good night's sleep, aiming for around 8 hours to aid in her recovery and overall performance."
+        ],
+        "key elements": [
+            "Serena Williams' daily routine is centered around her training and fitness to maintain her competitive edge.",
+            "Rest and recovery are equally important in her daily schedule, ensuring she's at her best on the tennis court."
+        ]
+    },
+    {
+        "name": "Oprah Winfrey",
+        "profession": "Talk show host and entrepreneur",
+        "description": "Popular talk show host and entrepreneur Oprah Winfrey was more than once named one of the most powerful and influential women in the world. But, with great success come swamped schedules. Still, Oprah seems to manage her time pretty well. Let's see what her typical day looks like to find out the secret behind her thriving career.",
+        "schedule": [
+            "Since Oprah tries to wake up without an alarm, her morning begins somewhere between 6 a.m. and 6:20 a.m.",
+            "She takes her time getting ready and doing her morning beauty rituals before the day starts.",
+            "A cup of espresso at 6:45 a.m. sharp is what keeps Oprah going until she takes her first meal of the day, usually around 10 a.m.",
+            "Working in her flower-filled office until 1 p.m., Oprah enjoys her late lunch.",
+            "Most of her afternoons are reserved for interviews and meetings.",
+            "By 6 p.m., Oprah makes sure to finish her workday.",
+            "She rarely spends her evenings at work and tries to have dinner with friends or go to the theater instead.",
+            "Before going to bed, Oprah meditates and reads."
+        ],
+        "key elements": [
+            "Oprah is a firm believer in not using alarm clocks to wake up, as she believes it creates a better start to her day.",
+            "Her free evenings show how important it is to strike a balance between work and personal life."
+        ]
+    },
+    {
+        "Anna Wintour": {
+          "profession": "Editor-in-Chief of Vogue",
+          "description": "Anna Wintour is synonymous with power and influence in the fashion industry. She has developed excellent time management skills to handle the busy fashion world.",
+          "schedule": [
+            "Wakes up between 4 a.m. and 5 a.m. and reads the news.",
+            "Exercise follows immediately after planning her day.",
+            "Arrives at the office between 8 a.m. and 8:30 a.m.",
+            "Mornings are filled with meetings.",
+            "Afternoons are for off-site meetings and events.",
+            "Leaves the office at 5 p.m. with a 'take-home bag' of work.",
+            "Goes to bed around 10 p.m."
+          ],
+          "key elements": "Early riser, time for exercise and breakfast, staying up-to-date with fashion."
+        },
+        "Evan Williams": {
+          "profession": "Co-founder of Twitter, Blogger, and Medium",
+          "description": "Evan Williams listens to his body and adjusts his schedule accordingly, focusing on work when his energy levels are high.",
+          "schedule": [
+            "Works in the morning when focus is at its peak.",
+            "Goes to the gym mid-morning or later in the afternoon.",
+            "Returns to work after the gym."
+          ],
+          "key elements": "Aligns work with his energy levels."
+        },
+        "Leo Babauta": {
+          "profession": "Creator of Zen Habits",
+          "description": "Leo Babauta, a former procrastinator, shares a productive routine that includes mindfulness and prioritization.",
+          "morning routine": [
+            "Wakes up at 4:30 a.m., drinks water.",
+            "Decides on three most important tasks for the day.",
+            "Makes lunch for himself and his children.",
+            "Eats breakfast and reads.",
+            "Meditates or exercises after breakfast.",
+            "Wakes up his family at 6:30 a.m."
+          ],
+          "key elements": "Prioritization, avoiding multitasking, focus on priorities."
+        },
+        "Angela Merkel": {
+          "profession": "Former German Chancellor",
+          "description": "Angela Merkel, a powerful and influential leader, managed her busy schedule with a focus on responsibilities and physical activity.",
+          "schedule": [
+            "Gets up at 5 a.m. and has breakfast.",
+            "Cycles to the office instead of driving.",
+            "Takes a break in the afternoons to exercise.",
+            "Engages in leisure activities, including reading, visiting museums, and working in her garden.",
+            "Sleeps for around 4 hours, depending on her day."
+          ],
+          "key elements": "Prioritization of responsibilities, physical activity."
+        }
+      }
+      
+]

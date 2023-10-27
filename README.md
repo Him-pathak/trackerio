@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+# trackerio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**trackerio** is a versatile web application designed to help you track and enhance your daily habits. Whether you're keen on forming new habits, improving existing ones, or simply staying organized, trackerio offers a comprehensive habit-tracking experience.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Habit Tracking**: Effortlessly create, manage, and track your daily habits. Edit or delete habits as needed, keeping your personal goals within reach.
 
-### `npm start`
+- **Date Navigation**: Seamlessly switch between different dates to view and manage your habits with the user-friendly calendar interface.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Notes**: Attach notes to specific habits to journal your progress, capture insights, or reflect on your journey.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Stats and Graphs**: Gain valuable insights into your daily and weekly habit performance with intuitive graphs.
 
-### `npm test`
+- **Inspiration from Successful People**: Explore the habits of notable figures like Elon Musk and Barack Obama to draw inspiration from their routines and accomplishments.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
 
-### `npm run build`
+**Habit Tracking**: Effortlessly create, manage, and track your daily habits. Edit or delete habits as needed, keeping your personal goals within reach.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot 2023-10-27 202422](https://github.com/Him-pathak/trackerio/assets/111335579/52aac3bb-dac1-46f8-a3e4-9db1f59c2fd8)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Notes**: Attach notes to specific habits to journal your progress, capture insights, or reflect on your journey.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot 2023-10-27 202433](https://github.com/Him-pathak/trackerio/assets/111335579/59c7e848-8f76-481a-b391-b8f101fb35d6)
 
-### `npm run eject`
+![Screenshot 2023-10-27 202459](https://github.com/Him-pathak/trackerio/assets/111335579/59799221-3404-4215-ba55-db244d809d88)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Stats and Graphs**: Gain valuable insights into your daily and weekly habit performance with intuitive graphs.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot 2023-10-27 205847](https://github.com/Him-pathak/trackerio/assets/111335579/9b48e7cb-a122-47d3-a4f6-143d1eef0e59)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Screenshot 2023-10-27 205907](https://github.com/Him-pathak/trackerio/assets/111335579/c610f090-efcc-47ad-b1c2-6c7bf7cb5e49)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Inspiration from Successful People**: Explore the habits of notable figures like Elon Musk and Barack Obama to draw inspiration from their routines and accomplishments.
 
-## Learn More
+![Screenshot 2023-10-27 202835](https://github.com/Him-pathak/trackerio/assets/111335579/cf66d9d5-972f-4588-8ea7-035a493e6fa8)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Screenshot 2023-10-27 203048](https://github.com/Him-pathak/trackerio/assets/111335579/61bfa4dc-6346-493e-9a55-59c13a6baa29)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+The project is built using the following technologies:
 
-### Analyzing the Bundle Size
+- **React**: trackerio is built  using React, a popular JavaScript library for building user interfaces. React's component-based architecture allows for a structured and efficient development process.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **Redux**: Redux is employed for state management. It helps maintain the application's state in a predictable and manageable way, making it easier to handle complex data interactions.
 
-### Making a Progressive Web App
+- **Material-UI (MUI)**: The user interface of trackerio is designed using Material-UI, a widely-used React UI framework that offers a set of beautifully styled and customizable components for a modern and responsive look and feel.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+-**mui-x**: mui-x is a library that extends Material-UI with additional functionality and features. It enhances the Material-UI components and makes it even easier to create a visually appealing and interactive user interface.
 
-### Advanced Configuration
+### Installation Instructions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. **Clone the Repository:**
 
-### Deployment
+   To get started, clone the project's repository to your local machine using the following command:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+   ```
+   git clone https://github.com/Him-pathak/trackerio.git
+   ```
 
-### `npm run build` fails to minify
+2. **Navigate to the Project Directory:**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   Change your current directory to the "trackerio" project's directory:
+
+   ```
+   cd trackerio
+   ```
+
+3. **Install Dependencies:**
+
+   Install the project's dependencies using npm:
+
+   ```
+   npm install
+   ```
+
+4. **Start the Development Server:**
+
+   To run the application in development mode, execute:
+
+   ```
+   npm start
+   ```
+
+   This command will start the development server, and the "trackerio" app will open in your default web browser.
+
+### Additional Notes
+
+- **Environment Variables**: In this case, there are no specific environment variables needed for the "trackerio" app.
+
+After following these instructions, you should be able to access "trackerio" React application.
